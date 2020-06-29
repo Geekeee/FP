@@ -15,7 +15,7 @@
 
 /* Add a background color to the top navigation */
 .topnav {
-    background-color: white;
+    background-color: thistle;
     overflow: hidden;
     padding-bottom: 40px;
   }
@@ -23,7 +23,7 @@
   /* Style the links inside the navigation bar */
   .topnav a {
     font-family: 'Source Sans Pro', sans-serif;
-    float: left;
+    float: none;
     color: rgb(96, 96, 139);
     text-align: center;
     padding: 14px 56px;
