@@ -327,8 +327,9 @@ main h3{
 
 .title-mp {
    text-align: center;
-   font-size: 40px;
+   font-size: 60px;
    font-family: 'Nanum Pen Script', cursive;
+   color: white;
 }
 
 .article {
