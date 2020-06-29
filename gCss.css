@@ -1,0 +1,100 @@
+
+
+
+.title{
+    text-align: center;
+    font-family: 'Baloo Chettan 2', cursive;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 80px;
+    color: rgba(238, 204, 10);
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+
+/* Add a background color to the top navigation */
+.topnav {
+    background-color: ;
+    overflow: hidden;
+    padding-bottom: 40px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    font-family: 'Source Sans Pro', sans-serif;
+    float: left;
+    color: rgb(96, 96, 139);
+    text-align: center;
+    padding: 14px 56px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(233, 235, 236);
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: rgb(201, 161, 74);
+    color: white;
+  }
+
+  /* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+/* Text */
+.card-deck {
+    text-align: center;
+}
+
+
+  /* Style for the images */
+  .image {
+display= flex 
+  }
+
+/* Style for long button */
+#Button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Style title */
+.heading {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 80px;
+    color: rgb(238, 204, 10);
+    font-family: 'Baloo Chettan 2', cursive;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Nanum Pen Script', cursive;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+
+
+  /*Carousal*/
+  .carousel-item {
+    width: 200px;
+    height: 600px;
+  }
+
+.carousel-caption {
+    color: rgb(238, 204, 10);
+}
+
+  .footer {
+      text-align: center;
+  }
